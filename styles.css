@@ -6,15 +6,18 @@ body {
     color: rgb(255, 238, 2);
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 90;
+    font-size: 90px;
     line-height: 50%;
     margin-top: 0%;
   }
   p {
-    color: rgb(230, 230, 230);
-    font-family: calibri;
+    color: rgb(224, 224, 224);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    line-height: 110%;
+    line-height: 130%;
+    font-size: 16px;
+    padding-left: 5%;
+    padding-right: 5%;
   }
   h2 {
     color: #fec803;
