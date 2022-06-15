@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(12, 12, 12);
+    
+  }
+  h1 {
+    color: rgb(255, 238, 2);
+    text-align: center;
+    font-family: calibri;
+    font-size: 90;
+    line-height: 50%;
+    margin-top: 0%;
+  }
+  p {
+    color: rgb(230, 230, 230);
+    font-family: calibri;
+    text-align: center;
+    line-height: 110%;
+  }
+  h2 {
+    color: rgb(230, 230, 230);
+    text-align: center;
+    font-family: helvetica;
+    line-height: 40%;
+    font-weight: 200;
+  }
+  h3 {
+    color: rgb(230, 230, 230);
+    text-align: center;
+    font-family: helvetica;
+    line-height: 105%;
+    font-size: 105%;
+  }
+  
+  .but {
+    box-shadow:inset 0px 39px 0px -24px #eb675e;
+    background-color:#e4685d;
+    border:1px solid #970404;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size: 110%;
+    padding:7px 35px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #b23e35;
+  }
+  .but:hover {
+    background-color:#eb675e;
+  }
+  .but:active {
+    position:relative;
+    top:1px;
+  }  
+
+  .butgroup {
+    justify-content: center;
+  }
